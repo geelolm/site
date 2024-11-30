@@ -465,7 +465,7 @@ ul {
 }
 
 .news-card-item-text {
-    margin: 0;
+    margin-bottom: 10px;
 }
 
 .news-card-item-title {
