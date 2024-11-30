@@ -565,6 +565,7 @@ footer a {
 .footer-buttons {
     display: flex;
     gap: 20px;
+    flex-wrap: wrap;
 }
 
 .footer-buttons .btn {
